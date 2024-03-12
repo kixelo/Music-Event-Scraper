@@ -1,6 +1,6 @@
 # Music Event Scraper
 
-With this app you can scrape all incoming music events.
+With this mini app you can scrape all incoming music events.
 
 ## IDE application that I used for coding part
 ```
