@@ -1,0 +1,2 @@
+tours:
+  css: '#displaytimer' #copy selector("displaytimer") from inspecting html code
